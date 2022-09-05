@@ -1,7 +1,4 @@
-# Machine-Learning-with-Python-Project
-This repository contains my machine learning projects leveraging python and its librabries
-
-## Liver_Disease_Dataset
+# Liver_Disease_Classification_Model
 ### Context
 
 Patients with liver disease have been continuously increasing because of excessive consumption of alcohol, inhale of harmful gases, intake of contaminated food, pickles and drugs. This dataset was used to evaluate prediction algorithms in effort to reduce burden of doctors.
